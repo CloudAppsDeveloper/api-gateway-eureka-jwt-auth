@@ -9,11 +9,11 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.assglobal.esms</groupId>
-	<artifactId>esms-api-gateway-jwt-auth</artifactId>
+	<groupId>com.cloudapps.developer</groupId>
+	<artifactId>api-gateway-eureka-jwt-auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>esms-api-gateway-jwt-auth</name>
+	<name>api-gateway-eureka-jwt-auth</name>
 	<description>ESMS API Gateway</description>
 
 	<properties>
